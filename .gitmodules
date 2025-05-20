@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "KMsurv"]
 	path = KMsurv
-	url = https://github.com/cran/KMsurv
+	url = https://github.com/jun-yan/kmsurv
 [submodule "tpr"]
 	path = tpr
 	url = https://github.com/cran/tpr
